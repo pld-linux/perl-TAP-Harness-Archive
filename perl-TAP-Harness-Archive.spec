@@ -4,7 +4,6 @@
 #
 %define		pdir	TAP
 %define		pnam	Harness-Archive
-%include	/usr/lib/rpm/macros.perl
 Summary:	TAP::Harness::Archive - Create an archive of TAP test results
 Summary(pl.UTF-8):	TAP::Harness::Archive - tworzenie archiwów wyników testów TAP
 Name:		perl-TAP-Harness-Archive
