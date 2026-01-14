@@ -8,7 +8,7 @@ Summary:	TAP::Harness::Archive - Create an archive of TAP test results
 Summary(pl.UTF-8):	TAP::Harness::Archive - tworzenie archiwów wyników testów TAP
 Name:		perl-TAP-Harness-Archive
 Version:	0.14
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
